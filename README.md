@@ -4,7 +4,7 @@ This extension provides [Textile](https://github.com/textile/php-textile) format
 
 ### Synopsis
 
-Format text using Textile syntax.
+Format text using [Textile syntax](https://txstyle.org/).
 
 ### Installation & Updating
 
