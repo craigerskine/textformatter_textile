@@ -1,6 +1,6 @@
 <?php
 	
-	Class extension_Textile extends Extension {
+	Class extension_Textformatter_Textile extends Extension {
 	/*-------------------------------------------------------------------------
 		Definition:
 	-------------------------------------------------------------------------*/
