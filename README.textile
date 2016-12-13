@@ -21,4 +21,4 @@ h3. History
 
 Version: 1.0.0
 
-bc. Initial release. Uses Textile v3.6.0
+bq. Initial release. Uses Textile v3.6.0
