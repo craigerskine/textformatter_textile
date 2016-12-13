@@ -12,7 +12,7 @@ Information about [installing and updating extensions](http://getsymphony.com/le
 
 1. Clone/Download tarball.
 2. Unzip and rename folder `textile`. This step is very important!
-3. Upload to your symphony extenstions folder.
+3. Upload `textile` folder to your symphony extenstions folder.
 4. In the Symphony backend System | Extensions area, click the Textile row and choose Install from the options dropdown.
 5. When you add a textarea field to any of your sections you can now choose "Textile" as a formatter option.
 
