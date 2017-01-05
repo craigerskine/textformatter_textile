@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="textformatter_textile" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
-  <name>Textile</name>
+  <name>Textformatter: Textile</name>
   <description>The superior text formatter.</description>
   <repo type="github">https://github.com/craigerskine/textformatter_textile</repo>
   <url type="discuss" />
