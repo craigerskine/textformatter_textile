@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="textformatter_textile" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
-	<name>Textile</name>
-	<description>The superior text formatter.</description>
-	<repo type="github">https://github.com/craigerskine/textformatter_textile</repo>
-	<url type="discuss" />
-	<types>
-		<type>Text Formatters</type>
-	</types>
-	<authors>
-		<author>
-			<name github="craigerskine" symphony="team">Craig Erskine</name>
-			<website>http://craigerskine.com/</website>
-		</author>
-	</authors>
-	<releases>
-		<release version="1.0.0" date="2016-12-12" min="2.4" max="2.x.x">
-			- Initial Release.
-		</release>
-	</releases>
+  <name>Textile</name>
+  <description>The superior text formatter.</description>
+  <repo type="github">https://github.com/craigerskine/textformatter_textile</repo>
+  <url type="discuss" />
+  <types>
+    <type>Text Formatters</type>
+  </types>
+  <authors>
+    <author>
+      <name github="craigerskine" symphony="team">Craig Erskine</name>
+      <website>http://craigerskine.com/</website>
+    </author>
+  </authors>
+  <releases>
+    <release version="1.0.0" date="2016-12-12" min="2.4" max="2.x.x">
+      - Initial Release.
+    </release>
+  </releases>
 </extension>
