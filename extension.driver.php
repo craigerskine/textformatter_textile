@@ -6,7 +6,7 @@
 
     public function about() {
       return array(
-        'name'      => 'Textile',
+        'name'      => 'Textformatter: Textile',
         'version'   => '1.0.0',
         'release-date'  => '2016-12-12',
         'author'    => array(
