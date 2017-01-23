@@ -23,7 +23,7 @@
         include_once(EXTENSIONS . '/textformatter_textile/lib/Parser.php');
         include_once(EXTENSIONS . '/textformatter_textile/lib/DataBag.php');
         include_once(EXTENSIONS . '/textformatter_textile/lib/Tag.php');
-        self::$_parser = new \Netcarver\Textile\Parser();
+        self::$_parser = new \Netcarver\Textile\Parser('html5');
       }
 
       // Textile transformation
