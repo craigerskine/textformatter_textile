@@ -19,6 +19,14 @@ Information about [installing and updating extensions](http://getsymphony.com/le
 
 ### History
 
+Version: 1.2.0
+
+> Initial release. Uses Textile v3.7.2
+
+Version: 1.1.0
+
+> Initial release. Uses Textile v3.7.1
+
 Version: 1.0.0
 
 > Initial release. Uses Textile v3.6.0
