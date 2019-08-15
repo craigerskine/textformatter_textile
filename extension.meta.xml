@@ -14,7 +14,7 @@
     </author>
   </authors>
   <releases>
-    <release version="1.0.0" date="2016-12-12" min="2.4" max="2.x.x">
+    <release version="1.2.0" date="2016-12-12" min="2.4" max="2.x.x">
       - Initial Release.
     </release>
   </releases>
