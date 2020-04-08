@@ -7,7 +7,7 @@
     public function about() {
       return array(
         'name'        => 'Textformatter: Textile',
-        'version'     => '1.2.0',
+        'version'     => '1.3.0',
         'release-date'=> '2016-12-12',
         'author'      => array(
           'name'      => 'Craig Erskine',
