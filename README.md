@@ -21,15 +21,15 @@ Information about [installing and updating extensions](http://getsymphony.com/le
 
 Version: 1.3.0
 
-> Initial release. Uses Textile v3.7.6
+> Updated to Textile v3.7.6
 
 Version: 1.2.0
 
-> Initial release. Uses Textile v3.7.2
+> Updated to Textile v3.7.2
 
 Version: 1.1.0
 
-> Initial release. Uses Textile v3.7.1
+> Updated to Textile v3.7.1
 
 Version: 1.0.0
 
